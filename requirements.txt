@@ -1,0 +1,5 @@
+FlightRadarAPI
+kafka-python
+flightradar_client
+aiohttp
+numpy
